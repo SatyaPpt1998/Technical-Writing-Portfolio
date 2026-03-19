@@ -1,4 +1,4 @@
-# Satyam Prajapati - Technical Writer
+# Satyamkumar Prajapati - Senior Technical Writer
 
 ## 👋 About Me
 Technical Writer & Business Analyst with 6+ years of experience delivering high-quality API documentation, user guides, and troubleshooting content for enterprise systems.
