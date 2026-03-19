@@ -1,21 +1,45 @@
 # Satyam Prajapati - Technical Writer
 
 ## 👋 About Me
-I am a Technical Writer with 6+ years of experience in Android Auto, Salesforce documentation, and API documentation. I specialize in creating user-friendly guides for developers and beginners.
+Technical Writer & Business Analyst with 6+ years of experience delivering high-quality API documentation, user guides, and troubleshooting content for enterprise systems.
+
+Expert in structured authoring (DITA XML), documentation lifecycle management, and simplifying complex technical concepts for developers and end users.
+
+Experienced in Salesforce documentation and AI-assisted tools. Familiar with Power BI, Tableau, and Excel for data-driven documentation and insights.
+
+Passionate about creating clear, scalable, and user-friendly documentation.
 
 ## 🛠 Skills
 - Technical Documentation
 - API Documentation (Postman)
 - User Guides & Manuals
-- XML
-- Salesforce & DDMX
-- Android Auto
+- Salesforce Documentation
+- DITA/XML Writing
+- DDLC/SDLC
+- UI & UX Writing
+- MSTP/STE
 
 ## 🔧 Tools
 - Postman
 - GitHub
-- MS Word
 - Confluence
+- MadCap Flare
+- Adobe RoboHelp/FrameMaker/Illustrator
+- Arbortext Editor
+- CMS Platforms
+- Microsoft Word/Excel
+- ChatGPT/Gemini
+- Jira
+- Photoshop
+- IsoDraw
+
+## 🔥Technologies
+- Python
+- SQL
+- HTML/CSS
+- Java
+- DITA XML
+- Markdown
 
 ## 📂 Work Samples
 
@@ -38,5 +62,6 @@ I am a Technical Writer with 6+ years of experience in Android Auto, Salesforce 
 - [Installation Guide](installation-guide.md)
 
 ## 📞 Contact
-Email: satyamp2425@gmail.com
-LinkedIn: www.linkedin.com/in/satyamkumar-prajapati-816131207
+- Number: +91 8424945145
+- Email: satyamp2425@gmail.com
+- LinkedIn: www.linkedin.com/in/satyamkumar-prajapati-816131207
