@@ -75,3 +75,4 @@ LinkedIn: your-linkedin
 - [API Documentation](api-documentation.md)
 - [Troubleshooting Guide](troubleshooting-guide.md)
 - [User Guide](user-guide.md)
+- [Installation Guide](installation-guide.md)
