@@ -69,3 +69,9 @@ I am a Technical Writer with 4.6 years of experience in Android Auto, Salesforce
 ## Contact
 Email: your-email@gmail.com
 LinkedIn: your-linkedin
+
+## 📂 Work Samples
+
+- [API Documentation](api-documentation.md)
+- [Troubleshooting Guide](troubleshooting-guide.md)
+- [User Guide](user-guide.md)
