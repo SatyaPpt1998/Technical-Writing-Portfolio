@@ -3,7 +3,7 @@
 ## Issue: App not connecting to server
 
 ### Possible Causes:
-- इंटरनेट issue
+- Internet issue
 - Server down
 - Wrong API URL
 
